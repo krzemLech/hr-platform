@@ -1,2 +1,2 @@
 # hr-platform
-AI-powered HR platform 
+ai - powered HR platform for employee skills evaluation
